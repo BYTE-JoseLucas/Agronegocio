@@ -10,7 +10,7 @@ pip install pandas
 ```
 pip install openpyxl
 ```
-<br>Código para extrair todas informações das 54 arquivos .xlsx
+<br>Código para extrair todas informações dos 54 arquivos .xlsx
 ```
 import os
 import pandas as pd
@@ -43,3 +43,6 @@ for arquivo in os.listdir(diretorio):
 # Salve o DataFrame em um arquivo Excel
 dados.to_excel('dados_completos.xlsx', index=False)
 ```
+
+<br>Layout original de todos arquivos .xlsx
+![image](https://github.com/BYTE-JoseLucas/Agronegocio/assets/99023240/3285e987-ec93-451e-a55f-e46f2a596ade)
