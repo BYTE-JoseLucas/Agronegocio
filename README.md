@@ -16,7 +16,7 @@ import os
 import pandas as pd
 
 # Diretório onde estão os arquivos Excel
-diretorio = 'C:/Users/jose.lucas/Desktop/Agronegocio/Todas lavouras/'
+diretorio = '.../Downloads/Todas lavouras/'
 
 # Inicia um DataFrame vazio
 dados = pd.DataFrame(columns=['Coluna1', 'Coluna2', 'Nome da Aba', 'Nome do Arquivo'])
