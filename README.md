@@ -53,7 +53,7 @@ dados.to_excel('dados_completos.xlsx', index=False)
 
 ![image](https://github.com/BYTE-JoseLucas/Agronegocio/assets/99023240/3285e987-ec93-451e-a55f-e46f2a596ade)
 
-<br>Layout após código rodar sobre todos os arquivos .xlsx
+<br>Layout após código rodar sobre todos os arquivos .xlsx gerou o arquivo 'dados_completos.xlsx' com um total de 462.179 linhas.
 <br>As seguintes colunas contem as seguintes informações:
 <li>Coluna1 - Contêm todos os municípios.</li>
 <li>Coluna2 - Contêm toda área plantada.</li>
