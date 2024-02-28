@@ -2,6 +2,15 @@
 <li>Demonstração do potencial de mercado do <strong>Agronegócio Brasileiro</strong>, todos os dados utilizados são de dominio público - <a href="https://www.ibge.gov.br/"> Clique aqui; </a></li>
 <li>Demonstração de todas as etapas para construção do produto final, painel gerencial em Looker Studio.</li><br>
 
+Linguagem e pacotes necessários (Python 3.12.2 64-bit):
+
+```
+pip install pandas
+```
+```
+pip install openpyxl
+```
+
 ```
 import os
 import pandas as pd
