@@ -49,6 +49,6 @@ dados.to_excel('dados_completos.xlsx', index=False)
 <li>Extrair todos os municípios.</li>
 <li>Extrair toda área plantada.</li>
 <li>Extrair todas as culturas.</li>
-<li>Extrair todos os estados.</li>
+<li>Extrair todos os estados.</li><br>
 
 ![image](https://github.com/BYTE-JoseLucas/Agronegocio/assets/99023240/3285e987-ec93-451e-a55f-e46f2a596ade)
