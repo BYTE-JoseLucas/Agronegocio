@@ -50,5 +50,13 @@ dados.to_excel('dados_completos.xlsx', index=False)
 <li>Extrair toda área plantada.</li>
 <li>Extrair todas as culturas.</li>
 <li>Extrair todos os estados.</li><br>
-
 ![image](https://github.com/BYTE-JoseLucas/Agronegocio/assets/99023240/3285e987-ec93-451e-a55f-e46f2a596ade)
+
+<br>Layout após código rodar sobre todos os arquivos .xlsx
+<br>As seguintes colunas contem as seguintes informações:
+<li>Coluna1 - Contêm todos os municípios.</li>
+<li>Coluna2 - Contêm toda área plantada.</li>
+<li>Nome da Aba - Contêm todas as culturas.</li>
+<li>Nome do Arquivo - Contêm todos os estados.</li><br>
+![image](https://github.com/BYTE-JoseLucas/Agronegocio/assets/99023240/c0652e7c-fd72-4897-851c-5f7a20ebc8ac)
+
