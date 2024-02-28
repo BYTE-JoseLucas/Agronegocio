@@ -45,7 +45,7 @@ dados.to_excel('dados_completos.xlsx', index=False)
 ```
 
 <br>Layout original de todos arquivos .xlsx
-Objetivo inicial é extrair as seguites informações:
+<br>Objetivo inicial é extrair as seguites informações:
 <li>Extrair todos os municípios.</li>
 <li>Extrair toda área plantada.</li>
 <li>Extrair todas as culturas.</li>
